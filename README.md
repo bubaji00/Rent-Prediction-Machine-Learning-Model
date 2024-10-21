@@ -23,6 +23,6 @@ This project predicts rental prices using a dataset from UC Irvine that consists
 
 1. Clone this repository.
 2. Run the following command to interact with Streamlit UI:
-     Windows: py -m streamlit run app_model4.py
-     Linux or MacOS: python3 -m streamlit run app_model4.py
+     - Windows: py -m streamlit run app_model4.py
+     - Linux or MacOS: python3 -m streamlit run app_model4.py
 4. Explore detailed data analysis and visualizations in the .ipynb file.
